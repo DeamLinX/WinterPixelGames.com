@@ -1,6 +1,6 @@
 import streamlit as st
 import gettext
-import extra_streamlit_components as stx
+import streamlit-extras as stx
 from ruamel.yaml import YAML
 from streamlit_js_eval import streamlit_js_eval
 
