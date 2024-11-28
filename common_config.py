@@ -3,7 +3,6 @@ import gettext
 import extra_streamlit_components as stx
 from ruamel.yaml import YAML
 from streamlit_js_eval import streamlit_js_eval
-import plotly.express as px
 
 yaml = YAML()
 yaml.indent(mapping=2, sequence=4, offset=2)
